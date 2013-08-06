@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The Events Calendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-06 16:09+0200\n"
+"POT-Creation-Date: 2013-08-06 19:59+0200\n"
 "PO-Revision-Date: 2013-07-02 11:29-0800\n"
 "Last-Translator: Paul Hughes <paul@paulalexanderhughes.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
@@ -1116,6 +1116,11 @@ msgstr ""
 msgid "Past Events"
 msgstr ""
 
+#: ../../the-events-calendar/lib/the-events-calendar.class.php:1008
+#: ../../the-events-calendar/public/template-tags/loop.php:172
+msgid "F Y"
+msgstr ""
+
 #: ../../the-events-calendar/lib/the-events-calendar.class.php:1009
 #: ../../the-events-calendar/lib/the-events-calendar.class.php:1016
 #, php-format
@@ -1124,6 +1129,10 @@ msgstr ""
 
 #: ../../the-events-calendar/lib/the-events-calendar.class.php:1011
 msgid "Events this month"
+msgstr ""
+
+#: ../../the-events-calendar/lib/the-events-calendar.class.php:1015
+msgid "l, F jS Y"
 msgstr ""
 
 #: ../../the-events-calendar/lib/the-events-calendar.class.php:1023
@@ -1878,6 +1887,10 @@ msgstr ""
 msgid ""
 "listed under %s. Check out upcoming events for this category or view the full "
 "calendar."
+msgstr ""
+
+#: ../../the-events-calendar/lib/tribe-template-factory.class.php:241
+msgid "F d, Y"
 msgstr ""
 
 #: ../../the-events-calendar/lib/tribe-template-factory.class.php:241
