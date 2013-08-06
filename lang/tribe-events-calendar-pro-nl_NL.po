@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Events Calendar Pro\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-06 16:14+0200\n"
+"POT-Creation-Date: 2013-08-06 19:21+0200\n"
 "PO-Revision-Date: 2013-08-06 12:00+0200\n"
 "Last-Translator: Erik Massop <e.massop@hccnet.nl>\n"
 "Language-Team: DECKERWEB <deckerweb.mobil@googlemail.com>\n"
@@ -254,20 +254,20 @@ msgstr "Verwijder"
 #: ../../events-calendar-pro/admin-views/event-meta-options.php:47
 #, fuzzy, php-format
 msgid ""
-"Enter the field label as you want it to appear (this will be the label in "
-"the same way \"Start Date,\" \"Organizer,\" etc appear in the event details "
-"box on the frontend). Select whether the field will be a text field; URL "
-"field; radio buttons; checkboxes; or a dropdown. All of these with the "
-"exception of text and URL allow for multiple options to be included, which "
-"you can add — one per-line — in the right-hand column. If you feel "
-"flummoxed, we've got you covered with a %s."
+"Enter the field label as you want it to appear (this will be the label in the "
+"same way \"Start Date,\" \"Organizer,\" etc appear in the event details box "
+"on the frontend). Select whether the field will be a text field; URL field; "
+"radio buttons; checkboxes; or a dropdown. All of these with the exception of "
+"text and URL allow for multiple options to be included, which you can add — "
+"one per-line — in the right-hand column. If you feel flummoxed, we've got you "
+"covered with a %s."
 msgstr ""
 "Voer het veldlabel in zoals je het wilt laten verschijnen. (Dit is een label "
 "als \"Startdatum\",\"Naam van de organisator\", etc. in het invoerscherm.) "
 "Selecteer het veldtype: tekst, URL, radio, checkbox of dropdown. Ieder van "
-"deze met uitzondering van tekst en URL staan meerdere opties toe, welke — "
-"één per regel — in de rechterkolom kunnen worden toegevoegd.Een beetje het "
-"spoor bijster..., we hebben het volgende bedacht met een %s."
+"deze met uitzondering van tekst en URL staan meerdere opties toe, welke — één "
+"per regel — in de rechterkolom kunnen worden toegevoegd.Een beetje het spoor "
+"bijster..., we hebben het volgende bedacht met een %s."
 
 #: ../../events-calendar-pro/admin-views/event-meta-options.php:48
 msgid "video tutorial that will walk you through the process"
@@ -287,16 +287,16 @@ msgstr "Verberg"
 
 #: ../../events-calendar-pro/admin-views/event-meta-options.php:55
 msgid ""
-"Enabling this option this will not remove custom field data or "
-"functionality, just the default meta box editor."
+"Enabling this option this will not remove custom field data or functionality, "
+"just the default meta box editor."
 msgstr ""
 "Het aanvinken van deze optie zal alleen de standaardmetaboxeditor wijzigen. "
 "Er wordt geen data of functionaliteit verwijderd."
 
 #: ../../events-calendar-pro/admin-views/event-meta-options.php:64
 msgid ""
-"Are you sure you wish to remove this field and its data from all events? "
-"Once you click OK this cannot be undone."
+"Are you sure you wish to remove this field and its data from all events? Once "
+"you click OK this cannot be undone."
 msgstr ""
 "Weet je zeker dat je dit veld én alle data van de bijbehorende evenementen "
 "wilt verwijderen? Dit kan niet ongedaan gemaakt worden als eenmaal op OK is "
@@ -573,11 +573,11 @@ msgstr "Hulp nodig? Stuur ons een supportverzoek."
 #: ../../events-calendar-pro/admin-views/support-form.php:14
 #, php-format
 msgid ""
-"Tell us about the problem you're seeing in as much detail as possible. "
-"Please note that we'll also be sending some basic system information along "
-"with this request so that we can better diagnose the issue. If you would "
-"like to contact us without sending any system information, please visit our "
-"support page at %s. Thanks!"
+"Tell us about the problem you're seeing in as much detail as possible. Please "
+"note that we'll also be sending some basic system information along with this "
+"request so that we can better diagnose the issue. If you would like to "
+"contact us without sending any system information, please visit our support "
+"page at %s. Thanks!"
 msgstr ""
 "Vertel ons je probleem zo duidelijk en gedetailleerd mogelijk. Let op: we "
 "sturen ook enige standaardsysteemgegevens mee met het verzoek om een betere "
@@ -608,10 +608,9 @@ msgid ""
 "save time when entering a new venue or organizer.</p><p>You can override "
 "these settings as you enter a new event.</p>"
 msgstr ""
-"<p>Kies de standaardlocatie en -organisator. Stel standaardadresinformatie "
-"in voor sneller toevoegen van een locatie of organisator.</p><p>Je kunt de "
-"standaardinstellingen veranderen bij het aanmaken van een nieuw evenement.</"
-"p>"
+"<p>Kies de standaardlocatie en -organisator. Stel standaardadresinformatie in "
+"voor sneller toevoegen van een locatie of organisator.</p><p>Je kunt de "
+"standaardinstellingen veranderen bij het aanmaken van een nieuw evenement.</p>"
 
 #: ../../events-calendar-pro/admin-views/tribe-options-defaults.php:51
 msgid "Options"
@@ -623,8 +622,7 @@ msgid ""
 "default values below for any new event that is created."
 msgstr ""
 "Vink dit vakje aan om de organisator- en locatievelden voor een nieuw "
-"evenement altijd in te vullen met de standaardwaardes zoals hieronder "
-"gegeven."
+"evenement altijd in te vullen met de standaardwaardes zoals hieronder gegeven."
 
 #: ../../events-calendar-pro/admin-views/tribe-options-defaults.php:65
 #: ../../events-calendar-pro/admin-views/widget-admin-advanced-list.php:29
@@ -800,49 +798,57 @@ msgstr "Voeg een filter toe"
 msgid "Select one..."
 msgstr "Kies er één..."
 
-#: ../../events-calendar-pro/events-calendar-pro.php:61
+#: ../../events-calendar-pro/events-calendar-pro.php:59
 msgid "week"
 msgstr "week"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:62
+#: ../../events-calendar-pro/events-calendar-pro.php:60
 msgid "photo"
 msgstr "foto"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:63
+#: ../../events-calendar-pro/events-calendar-pro.php:61
 #: ../../events-calendar-pro/lib/tribe-events-recurrence-meta.class.php:621
 msgid "day"
 msgstr "dag"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:64
+#: ../../events-calendar-pro/events-calendar-pro.php:62
 msgid "today"
 msgstr "vandaag"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:268
+#: ../../events-calendar-pro/events-calendar-pro.php:266
 msgid "Events for week of"
 msgstr "Evenementen in de week van"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:274
-#: ../../events-calendar-pro/events-calendar-pro.php:341
+#: ../../events-calendar-pro/events-calendar-pro.php:267
+#: ../../events-calendar-pro/events-calendar-pro.php:272
+#: ../../events-calendar-pro/events-calendar-pro.php:334
+#: ../../events-calendar-pro/events-calendar-pro.php:339
+#: ../../events-calendar-pro/lib/template-classes/day.php:49
+msgid "l, F jS Y"
+msgstr "l j F Y"
+
+#: ../../events-calendar-pro/events-calendar-pro.php:272
+#: ../../events-calendar-pro/events-calendar-pro.php:339
 msgid "Events for"
 msgstr "Evenementen op"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:279
-#: ../../events-calendar-pro/events-calendar-pro.php:346
+#: ../../events-calendar-pro/events-calendar-pro.php:277
+#: ../../events-calendar-pro/events-calendar-pro.php:344
 msgid "Past Events"
 msgstr "Afgelopen evenementen"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:281
-#: ../../events-calendar-pro/events-calendar-pro.php:348
+#: ../../events-calendar-pro/events-calendar-pro.php:279
+#: ../../events-calendar-pro/events-calendar-pro.php:346
 #: ../../events-calendar-pro/lib/widget-advanced-list.class.php:54
 msgid "Upcoming Events"
 msgstr "Toekomstige evenementen"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:287
-#: ../../events-calendar-pro/events-calendar-pro.php:328
+#: ../../events-calendar-pro/events-calendar-pro.php:285
+#: ../../events-calendar-pro/events-calendar-pro.php:326
 msgid "All events for"
 msgstr "Evenementen in"
 
-#: ../../events-calendar-pro/events-calendar-pro.php:335
+#: ../../events-calendar-pro/events-calendar-pro.php:333
 #, php-format
 msgid "Events for week of %s"
 msgstr "Evenementen in de week van %s"
@@ -850,8 +856,8 @@ msgstr "Evenementen in de week van %s"
 #: ../../events-calendar-pro/events-calendar-pro.php:881
 msgid ""
 "Thanks for buying Events Calendar PRO! From all of us at Modern Tribe, we "
-"sincerely appreciate it. If you're looking for help with Events Calendar "
-"PRO, you've come to the right place. We are committed to helping make your "
+"sincerely appreciate it. If you're looking for help with Events Calendar PRO, "
+"you've come to the right place. We are committed to helping make your "
 "calendar kick ass... and hope the resources provided below will help get you "
 "there."
 msgstr ""
@@ -868,17 +874,17 @@ msgstr ""
 msgid ""
 "%sOur New User Primer%s was designed for folks in your exact position. "
 "Featuring both step-by-step videos and written walkthroughs that feature "
-"accompanying screenshots, the primer aims to take you from zero to hero in "
-"no time."
+"accompanying screenshots, the primer aims to take you from zero to hero in no "
+"time."
 msgstr ""
 
 #: ../../events-calendar-pro/events-calendar-pro.php:897
 #, php-format
 msgid ""
 "%sInstallation/Setup FAQs%s from our support page can help give an overview "
-"of what the plugin can and cannot do. This section of the FAQs may be "
-"helpful as it aims to address any basic install questions not addressed by "
-"the new user primer."
+"of what the plugin can and cannot do. This section of the FAQs may be helpful "
+"as it aims to address any basic install questions not addressed by the new "
+"user primer."
 msgstr ""
 
 #: ../../events-calendar-pro/events-calendar-pro.php:899
@@ -916,10 +922,10 @@ msgstr ""
 msgid ""
 "Users who have purchased an Events Calendar PRO license are granted total "
 "access to our %spremium support forums%s. Unlike at the %sWordPress.org "
-"support forum%s, where our involvement is limited to identifying and "
-"patching bugs, we have a dedicated support team for PRO users. We're on the "
-"PRO forums daily throughout the business week, and no thread should go more "
-"than 24-hours without a response."
+"support forum%s, where our involvement is limited to identifying and patching "
+"bugs, we have a dedicated support team for PRO users. We're on the PRO forums "
+"daily throughout the business week, and no thread should go more than 24-"
+"hours without a response."
 msgstr ""
 
 #: ../../events-calendar-pro/events-calendar-pro.php:917
@@ -927,9 +933,9 @@ msgid ""
 "Our number one goal is helping you succeed, and to whatever extent possible, "
 "we'll help troubleshoot and guide your customizations or tweaks. While we "
 "won't build your site for you, and we can't guarantee we'll be able to get "
-"you 100% integrated with every theme or plugin out there, we'll do all we "
-"can to point you in the right direction and to make you -- and your client, "
-"as is often more importantly the case -- satisfied."
+"you 100% integrated with every theme or plugin out there, we'll do all we can "
+"to point you in the right direction and to make you -- and your client, as is "
+"often more importantly the case -- satisfied."
 msgstr ""
 
 #: ../../events-calendar-pro/events-calendar-pro.php:918
@@ -976,7 +982,7 @@ msgstr "Foto"
 
 #: ../../events-calendar-pro/events-calendar-pro.php:1610
 msgid "Day Of"
-msgstr "Dag"
+msgstr "Datum"
 
 #: ../../events-calendar-pro/events-calendar-pro.php:1612
 msgid "Week Of"
@@ -1049,6 +1055,10 @@ msgstr ""
 "Probeer een andere dag."
 
 #: ../../events-calendar-pro/lib/template-classes/day.php:106
+msgid "F d, Y"
+msgstr "j F Y"
+
+#: ../../events-calendar-pro/lib/template-classes/day.php:106
 #, php-format
 msgid "No events scheduled for <strong>%s</strong>. Please try another day."
 msgstr ""
@@ -1063,16 +1073,18 @@ msgstr ""
 "Er zijn géén resultaten gevonden voor <strong>\"%s\"</strong> deze week. "
 "Probeer een andere week. "
 
+#: ../../events-calendar-pro/lib/template-classes/week.php:192
+msgid "D jS"
+msgstr "D j"
+
 #: ../../events-calendar-pro/lib/tribe-events-recurrence-meta.class.php:462
 msgid ""
 "Monthly custom recurrences cannot have a dash set as the day to occur on."
 msgstr ""
-"Maandelijkse maatwerkterugkeer kan niet een streepje hebben als "
-"herhalingsdag."
+"Maandelijkse maatwerkterugkeer kan niet een streepje hebben als herhalingsdag."
 
 #: ../../events-calendar-pro/lib/tribe-events-recurrence-meta.class.php:465
-msgid ""
-"Yearly custom recurrences cannot have a dash set as the day to occur on."
+msgid "Yearly custom recurrences cannot have a dash set as the day to occur on."
 msgstr "Jaarlijkse maatwerkterugkeer kan niet een streepje als herhalingsdag."
 
 #: ../../events-calendar-pro/lib/tribe-events-recurrence-meta.class.php:592
@@ -1331,8 +1343,8 @@ msgid ""
 "(aprox. 1 minute for every 200 venues)."
 msgstr ""
 "Je hebt %d locaties waarvoor géén geolocatie-informatie aanwezig is. We "
-"gebruiken de Google Maps API om deze informatie te vinden. Dit kan een "
-"tijdje duren (ongeveer 1 minuut per 200 locaties)."
+"gebruiken de Google Maps API om deze informatie te vinden. Dit kan een tijdje "
+"duren (ongeveer 1 minuut per 200 locaties)."
 
 #: ../../events-calendar-pro/lib/tribe-geoloc.class.php:205
 msgid "Hide location search"
@@ -1340,8 +1352,8 @@ msgstr "Verberg zoeken op locatie"
 
 #: ../../events-calendar-pro/lib/tribe-geoloc.class.php:206
 msgid ""
-"Removes location search field from the events bar on all views except for "
-"map view."
+"Removes location search field from the events bar on all views except for map "
+"view."
 msgstr ""
 "Verwijdert het locatiezoekveld uit de evenementenbalk bij alle weergaven "
 "behalve de kaartweergave."
@@ -1593,8 +1605,7 @@ msgstr "Kantoor"
 
 #: ../../events-calendar-pro/vendor/advanced-post-manager/lib/tribe-filters.class.php:95
 msgid "what i’m querying. probably a key in the options array in $filters"
-msgstr ""
-"wat ik zoek. Waarschijnlijk een key in de instellingenarray in $filters"
+msgstr "wat ik zoek. Waarschijnlijk een key in de instellingenarray in $filters"
 
 #: ../../events-calendar-pro/vendor/advanced-post-manager/lib/tribe-filters.class.php:523
 msgid "Choose a Saved Filter"
@@ -1831,6 +1842,10 @@ msgstr "Datum:"
 msgid "Cost:"
 msgstr "Kosten:"
 
+#: ../../events-calendar-pro/views/week/loop-grid-hourly.php:38
+msgid "gA"
+msgstr "G"
+
 #: ../../events-calendar-pro/views/week/loop-grid.php:19
 msgid "Hours"
 msgstr "Uren"
@@ -1871,11 +1886,76 @@ msgstr "Organisator:"
 msgid "No upcoming events."
 msgstr "Geen toekomstige evenementen."
 
+#~ msgid "Show:"
+#~ msgstr "Bekijk:"
+
+#~ msgid "Refine your search:"
+#~ msgstr "Verfijn je zoekopdracht:"
+
 #~ msgid ""
-#~ "Want to modify the display of this widget? Try a %stemplate override%s."
+#~ "listed under %s. Check out events for this category or view the full "
+#~ "calendar."
 #~ msgstr ""
-#~ "Wil je de weergave van deze widget veranderen? Probeer een %stemplate "
-#~ "override%s."
+#~ "vermeld onder %s. Bekijk evenementen voor deze categorie of bekijk de "
+#~ "volledige kalender."
+
+#~ msgid "Showcase thread"
+#~ msgstr "Showcase thread"
+
+#~ msgid ""
+#~ "While we won't build your site for you and can't guarantee The Events "
+#~ "Calendar PRO to play nicely with every theme and plugin out there, our "
+#~ "team will do our best to help you get it functioning nicely with your "
+#~ "site. And as an added bonus, once you're done you can post it in the %s so "
+#~ "the rest of the community can see what you've been working on."
+#~ msgstr ""
+#~ "Alhoewel we niet je site gaan bouwen en niet kunnen garanderen dat The "
+#~ "Events Calendar perfect werkt met elk theme en elke plugin zal ons team "
+#~ "wel zijn best doen om je te helpen het goed werkende te krijgen voor je "
+#~ "site. En als een extra bonus; als je klaar bent kun je posten in de %s "
+#~ "zodat de rest van de gemeenscahp kan zien waar je aan gewerkt hebt."
+
+#~ msgid ""
+#~ "Sometimes, resaving your permalinks (under <a href=\"%s\">Settings > "
+#~ "Permalinks</a>) can resolve events-related problems on your site. Before "
+#~ "creating a new thread try this handy trick."
+#~ msgstr ""
+#~ "Soms kan het opnieuw opslaan van je permalink instellingen (onder <a href="
+#~ "\"%s\">Instellingen > Permalinks</a>)  problemen met evenementen op je "
+#~ "site oplossen. Probeer dit eerst voordat je vragen gaat stellen."
+
+#~ msgid ""
+#~ "Check whether the issue is a conflict with another plugin or your theme. "
+#~ "This can be tested easily on a staging site by deactivating other plugins "
+#~ "one-by-one, and reverting to the default Twenty Twelve theme to see if "
+#~ "conflicts can be easily identified. If you find a conflict, note it in a "
+#~ "support thread."
+#~ msgstr ""
+#~ "Controleer of je probleem te maken heeft met een andere plugin of met je "
+#~ "theme. Dit kan makkelijk getest worden door alle plugins één voor één af "
+#~ "te sluiten en terug te gaan naar het standaard Twenty Twelve theme. Als je "
+#~ "een probleem vind vermeld dit dan in een support onderwerp."
+
+#~ msgid ""
+#~ "Search recent threads before posting a new one to check that there isn't "
+#~ "already a discussion about your issue."
+#~ msgstr ""
+#~ "Doorzoek recente onderwerpen om te zien of je probleem al besproken wordt "
+#~ "alvorens een nieuwe aan te maken."
+
+#~ msgid "Some things to consider before posting on the forum:"
+#~ msgstr "Enkele dingen om aan te denken voordat je een bericht plaatst:"
+
+#~ msgid ""
+#~ "One of the advantages of being a PRO user is that you have access to our "
+#~ "exclusive forums at %s. Our support staff hits the forums on a daily "
+#~ "basis, and what they can't answer on the spot they'll bring a member of "
+#~ "our dev team in to address directly."
+#~ msgstr ""
+#~ "Eén van de voordelen om een PRO gebruiker te zijn is dat je toegang hebt "
+#~ "tot ons exclusieve forum op %s. Onze support medewerkers bekijken het "
+#~ "forum dagelijks en wat ze niet direct kunnen beantwoorden laten ze door "
+#~ "een lid van ons ontwikkel team afhandelen."
 
 #~ msgid ""
 #~ "<p>By buying a PRO license you will get active support and sweet "
@@ -1889,82 +1969,17 @@ msgstr "Geen toekomstige evenementen."
 #~ "\">license tab</a> and enter your key!</p>"
 #~ msgstr ""
 #~ "<p>Door een PRO licentie te kopen krijg je actieve ondersteuning en extra "
-#~ "mogelijkheden die niet beschikbaar zijn in de gratis The Events Calendar."
-#~ "</p><p><strong>In voor een avontuur?</strong> Spring er midden in door "
-#~ "het Evenementen  menu te bezoeken <a href=\"%s\">voeg je eerste evenement "
-#~ "toe</a>.</p><p><strong>Eerst meer achtergrond info?</strong> Bezoek onze "
-#~ "<a href=\"http://tri.be/support/documentation/events-calendar-pro-new-"
-#~ "user-primer/%s\">nieuwe gebruikers handleiding</a>,  ontwikkeld om je met "
-#~ "de bassis begrippen van de plugin bekend te maken.</p><p>Vergeet niet om "
-#~ "de <a href=\"%s\">licentie tab</a> te bezoeken om je key in te voeren!</p>"
+#~ "mogelijkheden die niet beschikbaar zijn in de gratis The Events Calendar.</"
+#~ "p><p><strong>In voor een avontuur?</strong> Spring er midden in door het "
+#~ "Evenementen  menu te bezoeken <a href=\"%s\">voeg je eerste evenement toe</"
+#~ "a>.</p><p><strong>Eerst meer achtergrond info?</strong> Bezoek onze <a "
+#~ "href=\"http://tri.be/support/documentation/events-calendar-pro-new-user-"
+#~ "primer/%s\">nieuwe gebruikers handleiding</a>,  ontwikkeld om je met de "
+#~ "bassis begrippen van de plugin bekend te maken.</p><p>Vergeet niet om de "
+#~ "<a href=\"%s\">licentie tab</a> te bezoeken om je key in te voeren!</p>"
 
 #~ msgid ""
-#~ "One of the advantages of being a PRO user is that you have access to our "
-#~ "exclusive forums at %s. Our support staff hits the forums on a daily "
-#~ "basis, and what they can't answer on the spot they'll bring a member of "
-#~ "our dev team in to address directly."
+#~ "Want to modify the display of this widget? Try a %stemplate override%s."
 #~ msgstr ""
-#~ "Eén van de voordelen om een PRO gebruiker te zijn is dat je toegang hebt "
-#~ "tot ons exclusieve forum op %s. Onze support medewerkers bekijken het "
-#~ "forum dagelijks en wat ze niet direct kunnen beantwoorden laten ze door "
-#~ "een lid van ons ontwikkel team afhandelen."
-
-#~ msgid "Some things to consider before posting on the forum:"
-#~ msgstr "Enkele dingen om aan te denken voordat je een bericht plaatst:"
-
-#~ msgid ""
-#~ "Search recent threads before posting a new one to check that there isn't "
-#~ "already a discussion about your issue."
-#~ msgstr ""
-#~ "Doorzoek recente onderwerpen om te zien of je probleem al besproken wordt "
-#~ "alvorens een nieuwe aan te maken."
-
-#~ msgid ""
-#~ "Check whether the issue is a conflict with another plugin or your theme. "
-#~ "This can be tested easily on a staging site by deactivating other plugins "
-#~ "one-by-one, and reverting to the default Twenty Twelve theme to see if "
-#~ "conflicts can be easily identified. If you find a conflict, note it in a "
-#~ "support thread."
-#~ msgstr ""
-#~ "Controleer of je probleem te maken heeft met een andere plugin of met je "
-#~ "theme. Dit kan makkelijk getest worden door alle plugins één voor één af "
-#~ "te sluiten en terug te gaan naar het standaard Twenty Twelve theme. Als "
-#~ "je een probleem vind vermeld dit dan in een support onderwerp."
-
-#~ msgid ""
-#~ "Sometimes, resaving your permalinks (under <a href=\"%s\">Settings > "
-#~ "Permalinks</a>) can resolve events-related problems on your site. Before "
-#~ "creating a new thread try this handy trick."
-#~ msgstr ""
-#~ "Soms kan het opnieuw opslaan van je permalink instellingen (onder <a href="
-#~ "\"%s\">Instellingen > Permalinks</a>)  problemen met evenementen op je "
-#~ "site oplossen. Probeer dit eerst voordat je vragen gaat stellen."
-
-#~ msgid ""
-#~ "While we won't build your site for you and can't guarantee The Events "
-#~ "Calendar PRO to play nicely with every theme and plugin out there, our "
-#~ "team will do our best to help you get it functioning nicely with your "
-#~ "site. And as an added bonus, once you're done you can post it in "
-#~ "the %s so the rest of the community can see what you've been working on."
-#~ msgstr ""
-#~ "Alhoewel we niet je site gaan bouwen en niet kunnen garanderen dat The "
-#~ "Events Calendar perfect werkt met elk theme en elke plugin zal ons team "
-#~ "wel zijn best doen om je te helpen het goed werkende te krijgen voor je "
-#~ "site. En als een extra bonus; als je klaar bent kun je posten in de %s "
-#~ "zodat de rest van de gemeenscahp kan zien waar je aan gewerkt hebt."
-
-#~ msgid "Showcase thread"
-#~ msgstr "Showcase thread"
-
-#~ msgid ""
-#~ "listed under %s. Check out events for this category or view the full "
-#~ "calendar."
-#~ msgstr ""
-#~ "vermeld onder %s. Bekijk evenementen voor deze categorie of bekijk de "
-#~ "volledige kalender."
-
-#~ msgid "Refine your search:"
-#~ msgstr "Verfijn je zoekopdracht:"
-
-#~ msgid "Show:"
-#~ msgstr "Bekijk:"
+#~ "Wil je de weergave van deze widget veranderen? Probeer een %stemplate "
+#~ "override%s."
